@@ -106,7 +106,7 @@ nav .navbar .menu {
 }
 
 .navbar .menu a {
-  font-size: 30px;
+  font-size: 33px;
   font-weight: 600;
   color: #0e2431;
   padding: 6px 0;
@@ -296,6 +296,8 @@ section .button button:hover {
   object-fit: cover;
   border-radius: 12px;
 } */
+
+
 /* About Section Start*/
 .about .about-details {
   display: flex;
@@ -314,14 +316,14 @@ section .button button:hover {
   font-weight: 500;
   margin-bottom: 10px;
 } */
+
+
 .about-details .right p {
   text-align: justify;
   color: #0e2431;
 }
-
 /* About Section End */
-/* Skill Section Start*/
-/* Skill Section End */
+
 /* Project Section Start*/
 .project .boxes {
   display: flex;
@@ -967,7 +969,8 @@ footer .text span a:hover {
   }
 }
 
-/* skill design start*/
+
+/* Skill Section Start*/
 section .skill {
   display: grid;
   grid-gap: 30px;
@@ -1023,4 +1026,4 @@ section .skill {
   color: white;
 }
 
-/* skill design end*/
+/* Skill Section Start*/
